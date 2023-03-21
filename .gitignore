@@ -4,6 +4,7 @@ node_modules
 /.firebase/*
 # .firebaserc
 API-details.js
+asteroid_examples.xlsx
 
 
 # local env files
